@@ -1,5 +1,8 @@
 # nightwatch-html-reporter
 
+<html xmlns="http://www.github.com/xhtml" lang="en" xml:lang="en">
+...
+</html>
 [![build status](https://img.shields.io/travis/jls/nightwatch-html-reporter/master.svg?style=flat-square)](https://travis-ci.org/jls/nightwatch-html-reporter)
 [![npm version](https://img.shields.io/npm/v/nightwatch-html-reporter.svg?style=flat-square)](https://www.npmjs.com/package/nightwatch-html-reporter)
 [![npm downloads](https://img.shields.io/npm/dm/nightwatch-html-reporter.svg?style=flat-square)](https://www.npmjs.com/package/nightwatch-html-reporter)
